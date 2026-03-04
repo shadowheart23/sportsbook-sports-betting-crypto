@@ -2,6 +2,8 @@
 
 Decentralized sportsbook — place and manage bets on sports events. Built with [Next.js](https://nextjs.org/), [Azuro](https://azuro.org) SDK, and wallet/social login (Privy).
 
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Us-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igamezgamble)
+
 ## Video
 
 https://github.com/user-attachments/assets/cfd5ab69-0acd-4d7f-b6a6-93b45c702e88
